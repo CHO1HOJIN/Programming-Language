@@ -1,0 +1,3 @@
+let rec f x = if x = true then x else x = false in
+    let g y = if y = y then f true = f false else true = false 
+    in g false = f true
