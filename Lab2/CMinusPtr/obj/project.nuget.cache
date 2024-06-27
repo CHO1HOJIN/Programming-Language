@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xClUpoRPNaCuDWrmtIGwzVzWPE4e0fKHn3JG8Z8Ebx5kFdyYgDSLBlY7BG9CNUa49oLyptNOyAlUQfxJEP9AXQ==",
+  "success": true,
+  "projectFilePath": "/sogang/under/cse20201654/Lab2/CMinusPtr/CMinusPtr.fsproj",
+  "expectedPackageFiles": [
+    "/sogang/under/cse20201654/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512",
+    "/sogang/under/cse20201654/.nuget/packages/fslexyacc/11.2.0/fslexyacc.11.2.0.nupkg.sha512",
+    "/sogang/under/cse20201654/.nuget/packages/fslexyacc.runtime/11.2.0/fslexyacc.runtime.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
